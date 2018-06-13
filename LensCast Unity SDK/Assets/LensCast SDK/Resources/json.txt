@@ -1,0 +1,9 @@
+{
+  "remoteCommand": {
+                                       "timestamp": 1529103309,
+                                        "action": {
+                                                          "id": "reset_level",
+                                                          "name": "Reset Level"
+                                                        }
+                                     }
+}
